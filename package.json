@@ -1,0 +1,25 @@
+{
+  "name": "hireahater",
+  "version": "1.0.0",
+  "description": "express twilio",
+  "main": "app.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibbi/hireahater.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibbi/hireahater/issues"
+  },
+  "homepage": "https://github.com/ibbi/hireahater#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cron": "^1.3.0",
+    "express": "^4.16.2",
+    "twilio": "^3.13.0"
+  }
+}
